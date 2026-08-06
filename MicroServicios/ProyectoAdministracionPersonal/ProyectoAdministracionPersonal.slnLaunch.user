@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Core4_Login\\Core4_Login.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "API_Gateway\\API_Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

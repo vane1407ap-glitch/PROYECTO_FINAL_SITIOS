@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="API_Gateway/API_Gateway.csproj" Id="9e7fbd6b-ed40-4292-bc3d-1af759332f57" />
+  <Project Path="Core4_Login/Core4_Login.csproj" />
+</Solution>

@@ -1,0 +1,46 @@
+[
+  {
+    "ContainingType": "Core4_Login.LoginEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLoginEndpoints\u003Eb__0_0",
+    "RelativePath": "api/Login/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Core4_Login.Entities.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Login"
+    ]
+  },
+  {
+    "ContainingType": "Core4_Login.LoginEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLoginEndpoints\u003Eb__0_1",
+    "RelativePath": "api/Login/validar",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Login"
+    ]
+  }
+]

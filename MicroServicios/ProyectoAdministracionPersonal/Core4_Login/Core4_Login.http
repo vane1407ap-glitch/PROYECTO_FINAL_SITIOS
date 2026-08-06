@@ -1,0 +1,6 @@
+@Core4_Login_HostAddress = http://localhost:5037
+
+GET {{Core4_Login_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
