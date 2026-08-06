@@ -9,6 +9,14 @@
       {
         "Path": "API_Gateway\\API_Gateway.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Core1_Puestos\\Core1_Puestos.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Core3_Empleados\\Core3_Empleados.csproj",
+        "Action": "Start"
       }
     ]
   }

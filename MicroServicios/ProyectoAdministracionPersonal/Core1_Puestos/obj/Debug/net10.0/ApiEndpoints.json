@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "Core1_Puestos.PuestoEndPoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPuestoEndpoints\u003Eb__0_0",
+    "RelativePath": "api/Puestos/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tamanoPagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Puestos"
+    ]
+  }
+]

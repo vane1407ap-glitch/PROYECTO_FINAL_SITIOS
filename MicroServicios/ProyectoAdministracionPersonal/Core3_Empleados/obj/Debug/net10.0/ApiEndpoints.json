@@ -1,0 +1,27 @@
+[
+  {
+    "ContainingType": "Core3_Empleados.EmpleadoEndPoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapEmpleadoEndpoints\u003Eb__0_0",
+    "RelativePath": "api/Empleados/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Core3_Empleados.Entities.CrearEmpleadoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Empleados"
+    ]
+  }
+]

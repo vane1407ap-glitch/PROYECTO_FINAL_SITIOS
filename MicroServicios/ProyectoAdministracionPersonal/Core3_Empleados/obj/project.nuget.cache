@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "XuT0ml9Cn0k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core3_Empleados\\Core3_Empleados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\limaw\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
+    "C:\\Users\\limaw\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\limaw\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\limaw\\.nuget\\packages\\mysqlconnector\\2.6.1\\mysqlconnector.2.6.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core3_Empleados\\Core3_Empleados.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core3_Empleados\\Core3_Empleados.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
