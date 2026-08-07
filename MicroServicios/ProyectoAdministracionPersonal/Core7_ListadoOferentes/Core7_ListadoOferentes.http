@@ -1,0 +1,6 @@
+@Core7_ListadoOferentes_HostAddress = http://localhost:5210
+
+GET {{Core7_ListadoOferentes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -17,6 +17,14 @@
       {
         "Path": "Core3_Empleados\\Core3_Empleados.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Core7_ListadoOferentes\\Core7_ListadoOferentes.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Core8_Oferentes\\Core8_Oferentes.csproj",
+        "Action": "Start"
       }
     ]
   }
