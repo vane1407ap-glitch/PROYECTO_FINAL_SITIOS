@@ -126,7 +126,7 @@ function PuestosActivos() {
                                         </td>
                                         <td>
                                             <Link 
-                                                to={`/oferentes?codigo_puesto=${encodeURIComponent(puesto.codigo)}&nombre_puesto=${encodeURIComponent(puesto.nombre)}`}
+                                                to={`/oferentes?codigo_puesto=${encodeURIComponent(puesto.codigo)}&nombre_puesto=${encodeURIComponent(puesto.nombre)}&id_puesto=${encodeURIComponent(puesto.idPuesto)}`}
                                                 className="puesto-link"
                                             >
                                                 {puesto.nombre || 'Sin nombre'}

@@ -1,5 +1,3 @@
-// src/pages/Login.jsx
-
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { gateway } from "../services/gateway";
@@ -10,24 +8,42 @@ function Login() {
     const [contrasena, setContrasena] = useState("");
     const [cargando, setCargando] = useState(false);
     const [error, setError] = useState("");
+
     const navigate = useNavigate();
 
     async function iniciarSesion(e) {
         e.preventDefault();
+
         setError("");
         setCargando(true);
 
         try {
             if (!usuario || !contrasena) {
-                throw new Error("Por favor, ingrese usuario y contraseña");
+                throw new Error(
+                    "Por favor, ingrese usuario y contraseña"
+                );
             }
 
-            await gateway.login(usuario, contrasena);
-            console.log("Login exitoso, redirigiendo...");
+            await gateway.login(
+                usuario,
+                contrasena
+            );
+
+            console.log(
+                "Login exitoso, redirigiendo..."
+            );
+
             navigate("/bienvenida");
         } catch (err) {
-            setError(err.message || "No fue posible iniciar sesión.");
-            console.error("Error de login:", err);
+            setError(
+                err.message ||
+                "No fue posible iniciar sesión."
+            );
+
+            console.error(
+                "Error de login:",
+                err
+            );
         } finally {
             setCargando(false);
         }
@@ -35,19 +51,37 @@ function Login() {
 
     return (
         <div className="login-page">
+
             <div className="login-card">
+
                 <div className="login-header">
-                    <h1>Administración de Personal</h1>
-                    <p>Inicio de sesión</p>
+                    <h1>
+                        Administración de Personal
+                    </h1>
+
+                    <p>
+                        Inicio de sesión
+                    </p>
                 </div>
 
-                <form className="login-form" onSubmit={iniciarSesion}>
+                <form
+                    className="login-form"
+                    onSubmit={iniciarSesion}
+                >
+
                     <div className="form-group">
-                        <label>Usuario</label>
+                        <label>
+                            Usuario
+                        </label>
+
                         <input
                             type="text"
                             value={usuario}
-                            onChange={(e) => setUsuario(e.target.value)}
+                            onChange={(e) =>
+                                setUsuario(
+                                    e.target.value
+                                )
+                            }
                             placeholder="Ingrese su usuario"
                             required
                             disabled={cargando}
@@ -56,11 +90,18 @@ function Login() {
                     </div>
 
                     <div className="form-group">
-                        <label>Contraseña</label>
+                        <label>
+                            Contraseña
+                        </label>
+
                         <input
                             type="password"
                             value={contrasena}
-                            onChange={(e) => setContrasena(e.target.value)}
+                            onChange={(e) =>
+                                setContrasena(
+                                    e.target.value
+                                )
+                            }
                             placeholder="Ingrese su contraseña"
                             required
                             disabled={cargando}
@@ -73,12 +114,21 @@ function Login() {
                         type="submit"
                         disabled={cargando}
                     >
-                        {cargando ? "Iniciando sesión..." : "Iniciar sesión"}
+                        {cargando
+                            ? "Iniciando sesión..."
+                            : "Iniciar sesión"}
                     </button>
 
-                    {error && <p className="mensaje-error">{error}</p>}
+                    {error && (
+                        <p className="mensaje-error">
+                            {error}
+                        </p>
+                    )}
+
                 </form>
+
             </div>
+
         </div>
     );
 }

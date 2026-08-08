@@ -1,31 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "ownTdRAgf1g=",
+  "dgSpecHash": "fLuZW1rOG1o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maddy\\source\\repos\\Parq1926\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core4_Login\\Core4_Login.csproj",
+  "projectFilePath": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core4_Login\\Core4_Login.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\maddy\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.10\\microsoft.aspnetcore.authentication.jwtbearer.10.0.10.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.19.2\\microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.19.2\\microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.identitymodel.logging\\8.19.2\\microsoft.identitymodel.logging.8.19.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.19.2\\microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.19.2\\microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.19.2\\microsoft.identitymodel.tokens.8.19.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\mysqlconnector\\2.6.1\\mysqlconnector.2.6.1.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.19.2\\system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512"
+    "C:\\Users\\vane1\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.10\\microsoft.aspnetcore.authentication.jwtbearer.10.0.10.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.19.2\\microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.19.2\\microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.identitymodel.logging\\8.19.2\\microsoft.identitymodel.logging.8.19.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.19.2\\microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.19.2\\microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.19.2\\microsoft.identitymodel.tokens.8.19.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\mysqlconnector\\2.6.1\\mysqlconnector.2.6.1.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.19.2\\system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\maddy\\source\\repos\\Parq1926\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core4_Login\\Core4_Login.csproj",
+      "projectPath": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core4_Login\\Core4_Login.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\maddy\\source\\repos\\Parq1926\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core4_Login\\Core4_Login.csproj",
+      "filePath": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core4_Login\\Core4_Login.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"

@@ -1,5 +1,3 @@
-// src/services/authService.js
-
 const TOKEN_KEY = 'auth_token';
 const USER_KEY = 'usuario_data';
 

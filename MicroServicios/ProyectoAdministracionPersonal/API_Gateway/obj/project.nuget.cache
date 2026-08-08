@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "OI/yZJBConI=",
+  "dgSpecHash": "QYIe06JJ6bo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maddy\\source\\repos\\Parq1926\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
+  "projectFilePath": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\maddy\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\ipaddressrange\\6.3.0\\ipaddressrange.6.3.0.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\10.0.10\\microsoft.aspnetcore.jsonpatch.10.0.10.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\10.0.10\\microsoft.aspnetcore.middlewareanalysis.10.0.10.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\10.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.10.0.10.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
-    "C:\\Users\\maddy\\.nuget\\packages\\ocelot\\25.0.0\\ocelot.25.0.0.nupkg.sha512"
+    "C:\\Users\\vane1\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\ipaddressrange\\6.3.0\\ipaddressrange.6.3.0.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\10.0.10\\microsoft.aspnetcore.jsonpatch.10.0.10.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\10.0.10\\microsoft.aspnetcore.middlewareanalysis.10.0.10.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\10.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.10.0.10.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\vane1\\.nuget\\packages\\ocelot\\25.0.0\\ocelot.25.0.0.nupkg.sha512"
   ],
   "logs": []
 }

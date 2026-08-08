@@ -11,6 +11,7 @@ function Oferentes() {
   const [error, setError] = useState(null);
   const [codigoPuesto, setCodigoPuesto] = useState('');
   const [nombrePuesto, setNombrePuesto] = useState('');
+  const [idPuesto, setIdPuesto] = useState('');
   const navigate = useNavigate();
   const location = useLocation();
 
@@ -19,6 +20,7 @@ function Oferentes() {
     const params = new URLSearchParams(location.search);
     const codigo = params.get('codigo_puesto') || params.get('id') || '';
     const nombre = params.get('nombre_puesto') || params.get('nombre') || '';
+    const id = params.get('id_puesto') || '';
 
     if (!codigo) {
       setError('No se recibió un código de puesto válido.');
@@ -28,6 +30,7 @@ function Oferentes() {
 
     setCodigoPuesto(codigo);
     setNombrePuesto(nombre);
+    setIdPuesto(id);
     cargarOferentes(codigo);
   }, [location.search]);
 
@@ -57,8 +60,9 @@ function Oferentes() {
   };
 
   const handleVerDetalle = (codigoOferente) => {
-    // Navegar a la página de detalle con los parámetros
-    navigate(`/detalle-oferente?codigo=${encodeURIComponent(codigoOferente)}&codigo_puesto=${encodeURIComponent(codigoPuesto)}&nombre_puesto=${encodeURIComponent(nombrePuesto)}`);
+    navigate(
+      `/detalle-oferente?codigo=${encodeURIComponent(codigoOferente)}&codigo_puesto=${encodeURIComponent(codigoPuesto)}&nombre_puesto=${encodeURIComponent(nombrePuesto)}&id_puesto=${encodeURIComponent(idPuesto)}`
+    );
   };
 
   const renderContenido = () => {
