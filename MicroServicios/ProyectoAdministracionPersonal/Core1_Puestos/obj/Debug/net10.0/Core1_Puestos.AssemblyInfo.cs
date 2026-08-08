@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Core1_Puestos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66930679c2d98bd49732ea4a36a970e0837f9800")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d68b9caf41bea21e9d66d6df8a99d648dcd01fc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core1_Puestos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core1_Puestos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

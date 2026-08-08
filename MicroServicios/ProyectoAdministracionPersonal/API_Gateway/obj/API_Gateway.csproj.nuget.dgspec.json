@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj": {}
+    "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj": {
+    "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
         "projectName": "API_Gateway",
-        "projectPath": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
-        "packagesPath": "C:\\Users\\vane1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vane1\\OneDrive\\Documentos\\Administracion_Personal_Proyecto\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\obj\\",
+        "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
+        "packagesPath": "C:\\Users\\limaw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vane1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\limaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

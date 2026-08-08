@@ -1,6 +1,0 @@
-@Core7_Oferentes_HostAddress = http://localhost:5251
-
-GET {{Core7_Oferentes_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -3,6 +3,4 @@
   <Project Path="Core1_Puestos/Core1_Puestos.csproj" Id="15baa974-a92b-4cfa-b588-e8671a102435" />
   <Project Path="Core3_Empleados/Core3_Empleados.csproj" Id="2d87d51b-aa30-4a36-92fe-30502383dba4" />
   <Project Path="Core4_Login/Core4_Login.csproj" />
-  <Project Path="Core7_ListadoOferentes/Core7_ListadoOferentes.csproj" Id="529a841c-37a3-4a46-bf0b-665672a7a5b2" />
-  <Project Path="Core8_Oferentes/Core8_Oferentes.csproj" Id="0716d91f-28ce-49a4-8547-aa9cd0195608" />
 </Solution>

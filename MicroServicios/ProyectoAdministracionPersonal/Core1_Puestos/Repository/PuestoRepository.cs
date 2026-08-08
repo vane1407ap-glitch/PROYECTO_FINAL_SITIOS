@@ -25,7 +25,6 @@ public class PuestoRepository : IPuestoRepository
 
         const string sql = """
             SELECT
-                id AS IdPuesto,
                 codigo_puesto AS CodigoPuesto,
                 nombre_puesto AS NombrePuesto
             FROM puestos
