@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RV77RLk6RS8=",
+  "dgSpecHash": "1GgGkOFPx54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
+  "projectFilePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\limaw\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\limaw\\.nuget\\packages\\ipaddressrange\\6.3.0\\ipaddressrange.6.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj": {}
+    "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj": {
+    "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
+        "projectUniqueName": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
         "projectName": "Core1_Puestos",
-        "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
+        "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
         "packagesPath": "C:\\Users\\limaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\obj\\",
+        "outputPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

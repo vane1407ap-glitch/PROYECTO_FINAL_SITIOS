@@ -2,6 +2,8 @@
 
 public class PuestoDTO
 {
+    public int IdPuesto { get; set; }
+
     public string CodigoPuesto { get; set; } = string.Empty;
 
     public string NombrePuesto { get; set; } = string.Empty;

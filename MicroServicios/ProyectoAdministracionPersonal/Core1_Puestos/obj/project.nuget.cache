@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALYhyZx6DNo=",
+  "dgSpecHash": "8y36TjjAe+g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
+  "projectFilePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\limaw\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
     "C:\\Users\\limaw\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
@@ -14,9 +14,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
+      "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
+      "filePath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\Core1_Puestos\\Core1_Puestos.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"

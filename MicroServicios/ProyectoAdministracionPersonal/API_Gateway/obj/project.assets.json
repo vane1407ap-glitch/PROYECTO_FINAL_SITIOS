@@ -345,11 +345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
+      "projectUniqueName": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
       "projectName": "API_Gateway",
-      "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
+      "projectPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\API_Gateway.csproj",
       "packagesPath": "C:\\Users\\limaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Final\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\obj\\",
+      "outputPath": "C:\\Users\\limaw\\Documents\\CUC\\Sitios\\Alcance_3\\PROYECTO_FINAL_SITIOS\\MicroServicios\\ProyectoAdministracionPersonal\\API_Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
